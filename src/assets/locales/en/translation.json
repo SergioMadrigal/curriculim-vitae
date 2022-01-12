@@ -1,0 +1,22 @@
+{
+    "common": {
+        "career_profile_title": "Career Profile",
+        "career_profile_content": "I'm a professional web development, long time ago I started to interest in web tecnologies and today I become a profesional web developer. In my career I made lots of systems that helped the people to do the things easier.",
+        "education_title": "Education",
+        "education_item_title": "Computer Engineering (IPN-ESIME)",
+        "education_item_authority": "University",
+        "experiences_title": "Experiences",
+        "job_1_description": "In claro video I'm using React js, SASS, webpack, Charles proxy and other tools to connect the app with STB(Set Up Boxes), STV (Smart TV) and video consoles like PS4. To update the code, we integrate functional components created with typescript and I made some configuratios to reduce the bundle size, all of this configurations help us to make easier run the app in old smart tv's and make the app faster. I worked with the music middleware created apis to show information about artist, albums and songs. Actually I development new features base on briefs created by the user.",
+        "job_2_description": "I was assignment to Nacional Monte de Piedad in the project called Donatarias I used React js, bootstrap and continuos integration with bluemix by IBM. After we participate in another project that started from zero, we used React js, bootstrap and Mongo DB (MERN stack), I developed the REST services and also integrated those apis to the frontend.",
+        "job_3_description": "In walmart I was working for all projects, first time I integrated Google Analytics and Google Tag Manager to analyze the purchase funnel(Superama and Sams) all the integration was made with javascript and C# because we used MVC. After the project end, I made frontend in walmart groceries injected javascript in the website and administrate some elements in oracle endeca like sections and baners. I developed cartridges in JS to insert in endeca, those cartridges was helpful to the content media team, in walmart MG we used a framework called copilot that is a mix between React js and Angular, later we migrate to the last version of React js hand to hand with walmart labs.",
+        "job_4_description": "I was working on some videogames made with unity 3D and C#/javascript like programming languaje to GLADKIDS local also made virtual tours for clients like GNP and made the website of Matersys.",
+        "job_5_description": "I made projects interns that we are planing, I participated making augmented reality, mobile apps and some games with javascript(corona).",
+        "certificate_title": "Certificates",
+        "lenguages_title": "Languages",
+        "lenguages_authority": "English",
+        "lenguages_authorityMeta": "Technical intermediate",
+        "skills_title": "Skills Proficiency",
+        "hobbies_title": "Hobbies & Interests",
+        "select_language": "Select language"
+    }
+}

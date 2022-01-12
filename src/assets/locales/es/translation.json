@@ -1,0 +1,22 @@
+{
+    "common": {
+        "career_profile_title": "Perfil profesional",
+        "career_profile_content": "",
+        "education_title": "Educación",
+        "education_item_title": "Ingeniería en computación (IPN-ESIME)",
+        "education_item_authority": "Universidad",
+        "experiences_title": "Experiencia",
+        "job_1_description": "",
+        "job_2_description": "",
+        "job_3_description": "",
+        "job_4_description": "",
+        "job_5_description": "",
+        "certificate_title": "Certificados",
+        "lenguages_title": "Idiomas",
+        "lenguages_authority": "Inglés",
+        "lenguages_authorityMeta": "Técnico intermedio",
+        "skills_title": "Competencias y habilidades",
+        "hobbies_title": "Hobbies e intereses",
+        "select_language": "Seleccione un lenguaje"
+    }
+}
